@@ -1,0 +1,27 @@
+.p1{
+  height: 100px;
+  width: 300%;
+  background-color: gray;
+  vertical-align: middle;
+}
+#p2:hover{
+  background-color: darkred;
+}
+#p3:hover{
+  background-color: darkblue;
+}
+#p4:hover{
+  background-color:  purple;
+}
+#p5:hover{
+  background-color: darkgreen;
+}
+#p6:hover{
+  background-color: darkorange;
+}
+#p7:hover{
+background-color: yellow;
+}
+#p8:hover{
+  background-color: cyan;
+}
